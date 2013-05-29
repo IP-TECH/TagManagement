@@ -14,7 +14,4 @@ root@iptech:/ALFRESCO_HOME/bin# sh ./apply_amps.sh
 
 You have Tag Management package installed in your administration tools in share.
 
-# Copyright (C) 2011 IP-TECH.
 # For community support, please visit http://www.iptechinside.com/labs
-# For submitting RFQs or requesting profesional support, please contact us through sales@iptech-offshore.com
-# Thank you for using Tag Management Tool for Alfresco Share
