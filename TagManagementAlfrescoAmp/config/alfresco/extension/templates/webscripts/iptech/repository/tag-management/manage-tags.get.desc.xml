@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Search Tags</shortname>
+  <description>Service to return search of Tags</description>
+  <url>/api/search-tags</url>
+  <format default="json"/>
+  <authentication>user</authentication>
+  <transaction allow="readonly">required</transaction>
+</webscript>
+
